@@ -7,12 +7,9 @@ sections:
 - type: document
   path: ''
   label: Home
-  match: "**/*"
 - type: document
   path: About
   label: About
-  match: "**/*"
-  read_only: false
 upload_dir: uploads
 public_path: "/uploads"
 front_matter_path: ''
